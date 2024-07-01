@@ -11,6 +11,12 @@
 </p>
 
 
+## 作者仓库
+```
+https://github.com/assimon/epusdt
+```
+应该是......
+
 ## 项目简介
 `Epusdt`（全称：Easy Payment Usdt）是一个由`Go语言`编写的私有化部署`Usdt`支付中间件(`Trc20网络`)     
 站长或开发者可通过`Epusdt`提供的`http api`集成至您的任何系统，无需过多的配置，仅仅依赖`mysql`和`redis`      
