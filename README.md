@@ -68,7 +68,7 @@ Epusdt
 ### 流程图：
 ![Implementation principle](wiki/img/implementation_principle.jpg)
 
-## 打赏
+## 打赏（此为作者打赏信息，与当前仓库无关）
 如果该项目对您有所帮助，希望可以请我喝一杯咖啡☕️
 ```
 Usdt(trc20)打赏地址: TNEns8t9jbWENbStkQdVQtHMGpbsYsQjZK
