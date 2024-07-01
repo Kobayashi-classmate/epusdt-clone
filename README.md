@@ -46,10 +46,10 @@ Epusdt
 ## 已适配系统插件
 - 独角数卡[插件地址](plugins/dujiaoka)
 
-## 🔥推荐服务器 
+## 🔥推荐服务器 （此为作者推荐信息，与当前仓库无关）
 - （美国免备案vps，配置2核2G仅需`20.98$`≈`145RMB`一年/支持支付宝付款）[👉🏻点我直达](https://my.racknerd.com/aff.php?aff=2745&pid=681)
 
-## 加入交流/意见反馈
+## 加入交流/意见反馈（此为作者频道，与当前仓库无关）
 - `Epusdt`频道[https://t.me/epusdt](https://t.me/epusdt)
 - `Epusdt`交流群组[https://t.me/epusdt_group](https://t.me/epusdt_group)
 
